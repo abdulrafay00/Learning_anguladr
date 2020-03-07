@@ -1,2 +1,2 @@
-# Learning_anguladr
+# Learning_angular
 Learning from coursera
